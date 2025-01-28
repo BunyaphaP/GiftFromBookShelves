@@ -1,2 +1,1 @@
-(class project)
-Note: command-line Python
+(class project) - command-line Python
